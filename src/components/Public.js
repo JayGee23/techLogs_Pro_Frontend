@@ -23,7 +23,7 @@ const Public = () => {
         </section>
     )
     return (
-        {content}
+        content
     )
 }
 

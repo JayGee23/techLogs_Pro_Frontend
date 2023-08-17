@@ -16,7 +16,7 @@ const DashHeader = () => {
     )
 
     return (
-        {content}
+        content
     )
 }
 
